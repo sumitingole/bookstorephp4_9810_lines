@@ -1,0 +1,29 @@
+<?xml version="1.0"?><!-- This file is used by CodeCharge for locking edited files. It may be removed when file locking is not desired. --><Files><File name="AdminBooks.php" time="26.06.2001 15:25:11" page="AdminBooks"/>
+<File name="AdminMenu.php" time="26.06.2001 15:25:11" page="AdminMenu"/>
+<File name="AdvSearch.php" time="26.06.2001 15:25:11" page="AdvSearch"/>
+<File name="BookDetail.php" time="26.06.2001 15:25:11" page="BookDetail"/>
+<File name="BookMaint.php" time="26.06.2001 15:25:11" page="BookMaint"/>
+<File name="Books.php" time="26.06.2001 15:25:10" page="Books"/>
+<File name="CardTypesGrid.php" time="26.06.2001 15:25:11" page="CardTypesGrid"/>
+<File name="CardTypesRecord.php" time="26.06.2001 15:25:11" page="CardTypesRecord"/>
+<File name="CategoriesGrid.php" time="26.06.2001 15:25:11" page="CategoriesGrid"/>
+<File name="CategoriesRecord.php" time="26.06.2001 15:25:11" page="CategoriesRecord"/>
+<File name="common.php" time="26.06.2001 15:25:10" page=""/>
+<File name="Default.php" time="26.06.2001 15:25:10" page="Default"/>
+<File name="EditorialCatGrid.php" time="26.06.2001 15:25:11" page="EditorialCatGrid"/>
+<File name="EditorialCatRecord.php" time="26.06.2001 15:25:11" page="EditorialCatRecord"/>
+<File name="EditorialsGrid.php" time="26.06.2001 15:25:11" page="EditorialsGrid"/>
+<File name="EditorialsRecord.php" time="26.06.2001 15:25:11" page="EditorialsRecord"/>
+<File name="Footer.php" time="26.06.2001 15:25:11" page="Footer"/>
+<File name="Header.php" time="26.06.2001 15:25:10" page="Header"/>
+<File name="Login.php" time="26.06.2001 15:25:11" page="Login"/>
+<File name="MembersGrid.php" time="26.06.2001 15:25:11" page="MembersGrid"/>
+<File name="MembersInfo.php" time="26.06.2001 15:25:11" page="MembersInfo"/>
+<File name="MembersRecord.php" time="26.06.2001 15:25:11" page="MembersRecord"/>
+<File name="MyInfo.php" time="26.06.2001 15:25:11" page="MyInfo"/>
+<File name="OrdersGrid.php" time="26.06.2001 15:25:11" page="OrdersGrid"/>
+<File name="OrdersRecord.php" time="26.06.2001 15:25:11" page="OrdersRecord"/>
+<File name="Registration.php" time="26.06.2001 15:25:11" page="Registration"/>
+<File name="ShoppingCart.php" time="26.06.2001 15:25:11" page="ShoppingCart"/>
+<File name="ShoppingCartRecord.php" time="26.06.2001 15:25:11" page="ShoppingCartRecord"/>
+</Files>
